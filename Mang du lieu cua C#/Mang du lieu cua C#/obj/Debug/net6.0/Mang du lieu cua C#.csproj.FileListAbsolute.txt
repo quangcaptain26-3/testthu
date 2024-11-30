@@ -1,0 +1,15 @@
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\bin\Debug\net6.0\Mang du lieu cua C#.exe
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\bin\Debug\net6.0\Mang du lieu cua C#.deps.json
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\bin\Debug\net6.0\Mang du lieu cua C#.runtimeconfig.json
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\bin\Debug\net6.0\Mang du lieu cua C#.dll
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\bin\Debug\net6.0\Mang du lieu cua C#.pdb
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\Mang du lieu cua C#.csproj.AssemblyReference.cache
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\Mang du lieu cua C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\Mang du lieu cua C#.AssemblyInfoInputs.cache
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\Mang du lieu cua C#.AssemblyInfo.cs
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\Mang du lieu cua C#.csproj.CoreCompileInputs.cache
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\Mang du lieu cua C#.dll
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\refint\Mang du lieu cua C#.dll
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\Mang du lieu cua C#.pdb
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\Mang du lieu cua C#.genruntimeconfig.cache
+D:\winform\Mang du lieu cua C#\Mang du lieu cua C#\obj\Debug\net6.0\ref\Mang du lieu cua C#.dll
